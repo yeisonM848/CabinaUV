@@ -1,1 +1,6 @@
 Instrucciones de codigos
+IMPORTANTE
+como abrir el archivo de draw
+1.Descarga el archivo .xml desde este repositorio.
+2. Ve a diagrams.net o abre la aplicación Draw.io.
+3. Haz clic en "Archivo" > "Abrir desde tu dispositivo" y selecciona el archivo.
