@@ -1,6 +1,8 @@
 Instrucciones de codigos
 IMPORTANTE
-como abrir el archivo de draw
+como abrir el archivo de draw.io.
 1.Descarga el archivo .xml desde este repositorio.
 2. Ve a diagrams.net o abre la aplicación Draw.io.
 3. Haz clic en "Archivo" > "Abrir desde tu dispositivo" y selecciona el archivo.
+el pdf de nombre presupuesto contiene el presupuestos o gastos incorporados en el proyecto
+y el pdf IMPLEMENTACION DE DISPOSITIVOS DE MONITOREO PARA LA SALUD EN DIFERENTES AREAS DEL MUNICIPIO DE ZAR contiene cada una de las partes que explica en que consiste el proyecto y como funciona el mismo.
